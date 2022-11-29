@@ -150,7 +150,7 @@ commit 히스토리에 C, D 커밋이 아예 사라진다.
 
 revert를 이용해 B 커밋으로 돌아가려면
 
-``` $ git revert 5lk4er ''' 
+``` $ git revert 5lk4er ``` 
 > D 커밋 revert
 
 ``` $ git revert 76sdeb ```
